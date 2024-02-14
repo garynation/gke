@@ -1,2 +1,2 @@
-project_id = "gn-terraform-demo3"
+project_id = "amitscluster"
 region     = "europe-west2"
