@@ -1,2 +1,2 @@
-project_id = "gn-terraform-demo2"
+project_id = "gn-terraform-demo3"
 region     = "europe-west2"
